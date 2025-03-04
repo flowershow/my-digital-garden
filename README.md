@@ -1,39 +1,65 @@
-# Flowershow Template 🌸
+# My Musings & Memories ⛰🧘‍♀️🏂
 
-Welcome to the Flowershow Template! This is a ready-to-use template for creating beautiful websites from your markdown content, particularly optimized for Obsidian vaults.
+Welcome to my personal corner of the web, where I'll be sharing my thoughts, travel experiences, coding projects, and much more!
 
-## What is this template?
+## Recent Posts
 
-This template serves as a foundation for:
-- Publishing your Obsidian vault as a website
-- Creating a new markdown-based website from scratch
-- Building documentation sites, blogs, or personal websites
+- [[Life Lessons Learned|Life Lessons Learned]]
+- [[JavaScript Tips|Let's Talk JavaScript]]
+- [[Chasing Auroras in Norway]]
 
-## Getting Started
+## Featured Content
 
-You can use this template in two main ways:
-
-### 1. Publishing Your Obsidian Vault
-
-If you have an existing Obsidian vault:
-1. Install Obsidian Flowershow plugin
-2. Adjust the configuration
-3. Publish you vault
-
-Your Obsidian links, callouts, and other features will be preserved and rendered beautifully on the web.
-
-### 2. Creating a New Site
-
-If you're starting from scratch:
-1. Use this template as your base
-2. Modify the content as you wish using an editor of your choise (or GitHub UI)
-3. Add your own markdown files
-
-## Learn More
-
-For more information about Flowershow and how to customize this template, visit:
-- [Flowershow Documentation](https://flowershow.app/docs)
+> [!info] Don't forget to check:
+> [[Chasing Auroras in Norway|Chasing Auroras in Norway]]
 
 ---
 
-Happy publishing! 🚀
+### Photo of the Week
+
+![[auroras.jpeg]]
+
+---
+
+### Keep in Touch!
+
+*Follow me on social media or drop a message. I'd love to hear from you!*
+
+[![twitter-follow](https://img.shields.io/twitter/follow/myprofile?style=social)](https://twitter.com/myprofile)
+[![github-follow](https://img.shields.io/github/followers/myprofile?style=social)](https://github.com/myprofile)
+
+---
+
+> [!tip] If you want to start your own blog, I've compiled a helpful guide
+> [[/blog/start-blogging|How to Start a Blog: From Zero to Hero]]
+
+---
+
+## Upcoming Events
+
+- [ ] **Web Dev Conference** – June 5th, 2023
+- [x] **Photography Workshop** – Completed
+  - Access materials [[/blog/photography-workshop-materials|here]].
+- [ ] Frontend Development Workshop - Jul 10th, 2024
+
+---
+
+## Thoughts & Code Snippets
+
+```javascript
+// JavaScript to brighten your day
+console.log("Keep smiling and keep coding!");
+```
+
+```python
+def enjoy_life():
+    return "Take time to smell the roses."
+```
+
+---
+
+### Thanks for visiting!
+
+_For any inquiries or just to say hi, send me a message at contact@myblog.com._
+
+> [!note] Check back often for more updates, stories, and inspiration!
