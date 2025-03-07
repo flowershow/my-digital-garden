@@ -1,4 +1,7 @@
-# Welcome to my Blog!
+---
+title: Welcome to my Blog!
+layout: catalog
+---
 
 Join me as I explore the world, code, and the little things in life that make it wonderful.
 
