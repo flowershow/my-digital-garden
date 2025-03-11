@@ -2,8 +2,6 @@
 
 Welcome to my personal corner of the web, where I'll be sharing my thoughts, travel experiences, coding projects, and much more!
 
-<div style={{ color: 'blue', lineHeight : 10, padding: 20 }}> Inline Styled Component</div>
-
 ## Recent Posts
 
 - [[Life Lessons Learned|Life Lessons Learned]]
