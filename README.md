@@ -2,6 +2,16 @@
 
 Welcome to my personal corner of the web, where I'll be sharing my thoughts, travel experiences, coding projects, and much more!
 
+<div style="background-color: #f4f4f4; padding: 20px;">
+  <div class="hero-text" style="text-align: center; padding: 20px;">
+    <h1 style="color: #333;">I am John Doe</h1>
+    <p style="color: #777; font-size: 18px;">And I'm a Photographer</p>
+    <button style="background-color: #008CBA; color: #fff; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+      Hire me
+    </button>
+  </div>
+</div>
+
 ## Recent Posts
 
 - [[Life Lessons Learned|Life Lessons Learned]]
