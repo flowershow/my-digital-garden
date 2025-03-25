@@ -11,7 +11,7 @@ Join me as I explore the world, code, and the little things in life that make it
 
 ## Featured Posts
 
-<Catalog2 dir="/blog" />
+<Index dir="/blog" />
 
 ## Categories
 
