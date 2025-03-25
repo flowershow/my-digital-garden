@@ -11,14 +11,7 @@ Join me as I explore the world, code, and the little things in life that make it
 
 ## Featured Posts
 
-- [Chasing Auroras in Norway](Chasing%20Auroras%20in%20Norway.md)
-  _The lights that danced and the lessons they taught me._
-  
-- [Life Lessons Learned](Life%20Lessons%20Learned.md)
-  _The pearls of wisdom gathered on life's winding road._
-
-- [Let's Talk JavaScript](JavaScript%20Tips.md)
-  _Dive into the depths of JavaScript with tips and tales._
+<Catalog2 dir="/blog" />
 
 ---
 
