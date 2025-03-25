@@ -13,8 +13,6 @@ Join me as I explore the world, code, and the little things in life that make it
 
 <Catalog2 dir="/blog" />
 
----
-
 ## Categories
 
 Explore posts by category:
