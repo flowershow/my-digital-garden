@@ -1,12 +1,4 @@
----
-title: "Chasing Auroras in Norway"
-description: "Join me on a mesmerizing journey beneath the Arctic skies, where nature's most enchanting spectacle dances."
-image: auroras.jpeg
-authors: [Jane Doe]
-date: 2024-04-17
----
-
-Join me on a mesmerizing journey beneath the Arctic skies, where nature's most enchanting spectacle dances.
+# Chasing Auroras in Norway
 
 ## The Northern Lights Adventure
 
