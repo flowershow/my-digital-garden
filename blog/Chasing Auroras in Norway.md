@@ -1,3 +1,7 @@
+---
+description: "Join me on a mesmerizing journey beneath the Arctic skies, where nature's most enchanting spectacle dances."
+---
+
 # Chasing Auroras in Norway
 
 ## The Northern Lights Adventure
