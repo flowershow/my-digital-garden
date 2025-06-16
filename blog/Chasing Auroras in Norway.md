@@ -2,6 +2,8 @@
 description: "Join me on a mesmerizing journey beneath the Arctic skies, where nature's most enchanting spectacle dances."
 date: 2024-04-17
 image: auroras.jpeg
+authors:
+  - Jane Doe
 ---
 
 # Chasing Auroras in Norway
