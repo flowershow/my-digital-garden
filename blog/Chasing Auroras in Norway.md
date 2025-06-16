@@ -1,5 +1,6 @@
 ---
 description: "Join me on a mesmerizing journey beneath the Arctic skies, where nature's most enchanting spectacle dances."
+authors: ["Jane Doe"]
 ---
 
 # Chasing Auroras in Norway
