@@ -1,15 +1,8 @@
 ---
 title: Welcome to my Blog!
+description: Join me as I explore the world, code, and the little things in life that make it wonderful.
 layout: catalog
 ---
-
-Join me as I explore the world, code, and the little things in life that make it wonderful.
-
-![[auroras.jpeg]]
-
----
-
-## Featured Posts
 
 <List dir="/blog" fields={["title", "description", "date", "image"]} />
 
