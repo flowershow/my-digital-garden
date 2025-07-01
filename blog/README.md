@@ -1,6 +1,5 @@
 ---
 title: Welcome to my blog!
-description: Join me as I explore the world, code, and the little things in life that make it wonderful.
 ---
 
 <List dir="/blog" fields={["title", "description", "date", "image"]} />
