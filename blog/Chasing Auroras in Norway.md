@@ -3,7 +3,7 @@ description: "Join me on a mesmerizing journey beneath the Arctic skies, where n
 date: 2024-04-17
 image: auroras.jpeg
 authors:
-  - Jane Doe
+  - jane-doe
 ---
 
 # Chasing Auroras in Norway
