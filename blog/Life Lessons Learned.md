@@ -1,7 +1,8 @@
 ---
 title: "Life Lessons Learned"
 description: "Welcome to a reflection on pivotal moments and the wisdom they've imparted on my journey through life."
-authors: [Jane Doe]
+authors:
+  - jane-doe
 date: 2024-12-23
 image: /ponder.jpg
 ---
