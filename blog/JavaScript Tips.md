@@ -1,7 +1,8 @@
 ---
 title: "JavaScript Tips"
 description: "Delve into the intricacies of JavaScript and discover its power beyond the basics."
-authors: [Jane Doe]
+authors:
+  - jane-doe
 date: 2024-04-17
 image: /jstips.png
 ---
